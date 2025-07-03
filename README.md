@@ -11,5 +11,12 @@ A machine learning project that uses computer vision to detect and classify huma
 - Emotion data recording and analysis
 - Trained model stored in `.pkl` format (not pushed to GitHub)
 
-## 📂 Project Structure
+## 💻 Tech Stack
+
+- Python
+- MediaPipe
+- OpenCV
+- Scikit-learn
+- Pandas
+- NumPy
 
